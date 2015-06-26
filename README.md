@@ -1,4 +1,4 @@
-Author: Waleed Gudah
+Author: Waleed Gudah, Timothy Lee, Kimberly Bradford
 
 This is the Official ZVH Rails 4 application. Currently features user and admin system with Facebook login, ransack, and devise 
 
